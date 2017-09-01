@@ -1,0 +1,113 @@
+<!Doctype html>
+<html>
+   
+   <head>
+      <title>Login Page</title>
+      
+          <meta charset="utf-8">
+      <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+    <!-- Responsive -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
+
+    <!-- Colors -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+	
+	<!-- Animation Style -->
+    <!-- <link rel="stylesheet" type="text/css" href="stylesheets/animate.css"> -->
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="icon/favicon.png" rel="shortcut icon">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+      <style type = "text/css">
+         body {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:14px;
+         }
+         
+         label {
+            font-weight:bold;
+            width:100px;
+            font-size:14px;
+         }
+         
+         .box {
+            border:#666666 solid 1px;
+         }
+      </style>
+      
+   </head>
+   
+<body class="header-sticky">
+    <div class="windows8">
+        <div class="preload-inner">
+            <div class="wBall" id="wBall_1">
+                <div class="wInnerBall"></div>
+            </div>
+            <div class="wBall" id="wBall_2">
+                <div class="wInnerBall"></div>
+            </div>
+            <div class="wBall" id="wBall_3">
+                <div class="wInnerBall"></div>
+            </div>
+            <div class="wBall" id="wBall_4">
+                <div class="wInnerBall"></div>
+            </div>
+            <div class="wBall" id="wBall_5">
+                <div class="wInnerBall"></div>
+            </div>
+        </div>
+    </div>
+	<?php include('header.php'); ?>
+   <div class="page-title parallax parallax4"> 
+    	<div class="overlay"></div>            
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">                    
+                    <div class="page-title-heading">
+                        <h2 class="title"></h2>
+                    </div><!-- /.page-title-heading -->
+                    <div class="breadcrumbs">
+                        <ul>
+                            <li><a href="index.php">Home</a></li>
+               
+               <form action = "logintest.php" method = "post">
+                  <label>UserName  :</label><input type = "text" name = "user_name" class = "box"/><br /><br />
+                  <label>Password  :</label><input type = "password" name = "p_word" class = "box" /><br/><br />
+                  <input type = "submit" value = " Submit "/><br />
+               </form>
+               
+               <div style = "font-size:11px; color:#cc0000; margin-top:10px"></div>
+					
+            </div>
+				
+         </div>
+			
+      </div>
+    <!-- Footer -->
+   <?php include('footer.php'); ?>
+        <!-- Javascript -->
+    <script type="text/javascript" src="javascript/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery.easing.js"></script> 
+    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
+    <script type="text/javascript" src="javascript/parallax.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="javascript/gmap3.min.js"></script> 
+    <script type="text/javascript" src="javascript/jquery-validate.js"></script> 
+    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
+    
+    <script type="text/javascript" src="javascript/main.js"></script>
+   </body>
+</html>

@@ -1,0 +1,186 @@
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 2
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 2
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 75
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 75
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/searchcar.php on line 100
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:100
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/searchcar.php on line 100
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:100
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/searchcar.php on line 102
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/searchcar.php:102
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/searchcar.php on line 153
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:153
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/searchcar.php on line 153
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:153
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/searchcar.php on line 155
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/searchcar.php:155
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 213
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:23:47 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 213
+[30-Aug-2017 12:23:47 UTC] PHP Stack trace:
+[30-Aug-2017 12:23:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 2
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 2
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 80
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 80
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/searchcar.php on line 105
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:105
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/searchcar.php on line 105
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:105
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/searchcar.php on line 107
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/searchcar.php:107
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/searchcar.php on line 158
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:158
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/searchcar.php on line 158
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:158
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/searchcar.php on line 160
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/searchcar.php:160
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:01 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:52:01 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:17 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 80
+[30-Aug-2017 12:52:17 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:17 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 80
+[30-Aug-2017 12:52:17 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:52:17 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:52:17 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:34 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:52:34 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:52:34 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:52:34 UTC] PHP Stack trace:
+[30-Aug-2017 12:52:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:54:40 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:54:40 UTC] PHP Stack trace:
+[30-Aug-2017 12:54:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:54:40 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:54:40 UTC] PHP Stack trace:
+[30-Aug-2017 12:54:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:55:32 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:55:32 UTC] PHP Stack trace:
+[30-Aug-2017 12:55:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:55:32 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 218
+[30-Aug-2017 12:55:32 UTC] PHP Stack trace:
+[30-Aug-2017 12:55:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/singlesearch.php on line 2
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/singlesearch.php on line 2
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/singlesearch.php on line 116
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/singlesearch.php on line 116
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/singlesearch.php on line 150
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/singlesearch.php:150
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/singlesearch.php on line 150
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/singlesearch.php:150
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/singlesearch.php on line 152
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/singlesearch.php:152
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/singlesearch.php on line 254
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 12:56:29 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/singlesearch.php on line 254
+[30-Aug-2017 12:56:29 UTC] PHP Stack trace:
+[30-Aug-2017 12:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/singlesearch.php:0
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 2
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 2
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 75
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 75
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/searchcar.php on line 100
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:100
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/searchcar.php on line 100
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:100
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/searchcar.php on line 102
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/searchcar.php:102
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/car/searchcar.php on line 153
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:153
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/car/searchcar.php on line 153
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/car/searchcar.php:153
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/car/searchcar.php on line 155
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/car/searchcar.php:155
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/car/searchcar.php on line 213
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
+[30-Aug-2017 13:01:15 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/car/searchcar.php on line 213
+[30-Aug-2017 13:01:15 UTC] PHP Stack trace:
+[30-Aug-2017 13:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/car/searchcar.php:0
